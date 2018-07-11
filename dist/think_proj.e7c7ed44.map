@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["alert","console","log"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAAA,MAAM,eAAN;AACAC,QAAQC,GAAR,CAAY,eAAZ","file":"think_proj.e7c7ed44.map","sourceRoot":"..","sourcesContent":["alert('Hello Parsel!');\nconsole.log('Hello Parsel!');"]}
